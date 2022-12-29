@@ -1,0 +1,4 @@
+bazel-*/*
+html/*
+*/.ipynb_checkpoints/*
+.vscode/*
