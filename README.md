@@ -1,5 +1,18 @@
 # Correlation Clustering Algorithm for Dynamic Complete Signed Graphs: An Index-based Approach
 
+Published version at [Knowledge and Information Systems](https://link.springer.com/article/10.1007/s10115-025-02397-3):
+```latex
+@article{shakiba2025correlation,
+  title={Correlation clustering algorithm for dynamic complete signed graphs: an index-based approach},
+  author={Shakiba, Ali},
+  journal={Knowledge and Information Systems},
+  pages={1--20},
+  year={2025},
+  publisher={Springer London London},
+  doi={10.1007/s10115-025-02397-3}
+}
+```
+
 Source code for the following [paper](https://arxiv.org/abs/2301.00384):
 ```latex
 @misc{https://doi.org/10.48550/arxiv.2301.00384,
